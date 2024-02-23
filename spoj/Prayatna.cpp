@@ -41,3 +41,10 @@ int main(){
   
   return 0;
 }
+
+int main(){
+  Card t = new Card()
+  CardStack s;
+  s.push(t)// card = t --
+
+}
