@@ -7,3 +7,6 @@ class Solution:
                 mapping[key].append(word)
             else: mapping[key] = [word]
         return list(mapping.values())
+
+
+    
