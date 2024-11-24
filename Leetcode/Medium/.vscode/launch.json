@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/phananhnguyen/Desktop/Coding/CP_Solutions/Leetcode/Medium",
+      "program": "/Users/phananhnguyen/Desktop/Coding/CP_Solutions/Leetcode/Medium/build/Debug/outDebug"
+    }
+  ]
+}
